@@ -1,0 +1,101 @@
+ProductCode,ProductName,Category,SubCategory,Brand,SupplierCode,UnitCost,UnitPrice,Weight,ReorderPoint,ReorderQuantity,IsActive
+ELE-0001,Circuit Breaker,Electrical,,NorthStar,SUP001,51.45,77.12,111.97,122,50,1
+ELE-0002,Light Switch,Electrical,,PrimeWorks,SUP018,156.61,196.32,149.25,69,75,1
+SAF-0001,Ear Protection,Safety,,ProBuild,SUP008,98.42,127.14,59.98,103,25,1
+ELE-0003,Wall Outlet,Electrical,,MasterCraft,SUP011,143.78,177.04,53.25,163,75,1
+HVA-0001,Vent Register,HVAC,,MasterCraft,SUP013,162.87,215.62,98.11,142,25,1
+HVA-0002,Thermostat,HVAC,,Industrial Plus,SUP016,16.3,23.26,14.38,20,25,1
+PWR-0001,Hammer Drill,Power Tools,,PrimeWorks,SUP018,143.03,219.69,33.22,120,100,1
+HVA-0003,Air Filter,HVAC,,PrimeWorks,SUP020,35.47,43.06,94.13,164,50,1
+HVA-0004,Thermostat,HVAC,,Apex,SUP006,68.26,108.55,146.55,138,500,1
+HVA-0005,Blower Motor,HVAC,,PrimeWorks,SUP017,45.56,55.21,113.04,37,500,1
+FAS-0001,Wood Screws,Fasteners,,NorthStar,SUP015,111.5,161.93,1.51,120,75,1
+PWR-0002,Cordless Drill,Power Tools,,Apex,SUP017,244.5,389.37,147.26,54,75,1
+ELE-0004,Extension Cord,Electrical,,ProBuild,SUP001,217.21,315.43,21.75,23,75,1
+SAF-0002,Ear Protection,Safety,,NorthStar,SUP016,102.98,161.61,21.0,49,250,1
+FAS-0002,Hex Nuts,Fasteners,,Industrial Plus,SUP005,94.52,148.99,135.56,91,500,1
+PWR-0003,Angle Grinder,Power Tools,,PrimeWorks,SUP003,223.08,310.79,113.37,158,75,1
+ELE-0005,Extension Cord,Electrical,,Apex,SUP012,61.83,96.56,86.46,96,250,1
+FAS-0003,Concrete Anchors,Fasteners,,Apex,SUP006,28.01,42.35,127.76,19,50,1
+SAF-0003,Ear Protection,Safety,,NorthStar,SUP005,173.81,263.3,48.48,108,25,1
+PWR-0004,Angle Grinder,Power Tools,,SafeGuard,SUP007,200.9,310.54,83.97,160,50,1
+SAF-0004,Hard Hat,Safety,,Industrial Plus,SUP005,5.84,7.39,103.85,36,100,1
+ELE-0006,Circuit Breaker,Electrical,,Industrial Plus,SUP016,159.89,222.86,53.28,198,75,1
+PWR-0005,Circular Saw,Power Tools,,Industrial Plus,SUP015,94.48,145.05,51.87,172,50,1
+HVA-0006,Air Filter,HVAC,,Industrial Plus,SUP020,148.94,214.18,1.1,155,75,1
+SAF-0005,Ear Protection,Safety,,SafeGuard,SUP016,233.93,344.85,104.11,25,100,1
+HVA-0007,Blower Motor,HVAC,,MasterCraft,SUP003,77.6,120.54,73.1,107,250,1
+HVA-0008,Blower Motor,HVAC,,ProBuild,SUP010,38.23,53.58,148.58,115,50,1
+FAS-0004,Wood Screws,Fasteners,,Industrial Plus,SUP001,200.42,250.4,38.26,90,75,1
+HVA-0009,Thermostat,HVAC,,Industrial Plus,SUP006,174.2,277.13,25.79,112,75,1
+SAF-0006,Ear Protection,Safety,,MasterCraft,SUP005,152.01,225.91,47.6,112,25,1
+ELE-0007,Light Switch,Electrical,,ProBuild,SUP007,244.88,373.27,102.76,93,500,1
+HVA-0010,Flexible Duct,HVAC,,MasterCraft,SUP014,248.84,390.46,128.08,109,25,1
+HVA-0011,Vent Register,HVAC,,PrimeWorks,SUP014,43.42,66.66,93.06,34,250,1
+FAS-0005,Concrete Anchors,Fasteners,,NorthStar,SUP004,110.69,152.88,12.16,179,25,1
+FAS-0006,Washers,Fasteners,,ProBuild,SUP002,12.94,16.94,26.67,34,100,1
+ELE-0008,Electrical Wire,Electrical,,SafeGuard,SUP006,82.03,114.57,70.46,119,50,1
+SAF-0007,Safety Vest,Safety,,MasterCraft,SUP005,72.88,107.27,47.34,94,50,1
+HVA-0012,Blower Motor,HVAC,,Titan,SUP015,89.79,138.48,117.52,182,25,1
+HVA-0013,Vent Register,HVAC,,PrimeWorks,SUP003,78.2,110.35,35.92,56,75,1
+SAF-0008,Safety Glasses,Safety,,Titan,SUP005,187.52,299.05,18.23,191,100,1
+ELE-0009,Wall Outlet,Electrical,,NorthStar,SUP015,207.01,316.82,135.01,79,50,1
+PWR-0006,Cordless Drill,Power Tools,,ProBuild,SUP012,176.58,229.72,105.01,176,50,1
+PWR-0007,Impact Driver,Power Tools,,MasterCraft,SUP016,47.55,67.16,80.45,124,500,1
+HVA-0014,Vent Register,HVAC,,SafeGuard,SUP013,209.81,312.18,123.46,151,75,1
+FAS-0007,Washers,Fasteners,,PrimeWorks,SUP015,39.5,48.06,105.15,196,500,1
+HVA-0015,Air Filter,HVAC,,Apex,SUP004,140.14,171.56,46.32,171,100,1
+SAF-0009,Safety Vest,Safety,,SafeGuard,SUP006,18.0,26.59,57.62,152,25,1
+HVA-0016,Blower Motor,HVAC,,Industrial Plus,SUP011,187.53,266.11,75.18,91,500,1
+PWR-0008,Angle Grinder,Power Tools,,NorthStar,SUP016,66.07,83.09,66.52,81,500,1
+SAF-0010,Safety Glasses,Safety,,Industrial Plus,SUP016,216.13,294.98,44.59,47,50,1
+HVA-0017,Air Filter,HVAC,,Apex,SUP005,161.36,224.14,69.53,172,500,1
+SAF-0011,Hard Hat,Safety,,PrimeWorks,SUP003,46.56,70.95,78.22,145,250,1
+ELE-0010,Electrical Wire,Electrical,,NorthStar,SUP010,77.31,117.69,108.55,154,50,1
+SAF-0012,Safety Vest,Safety,,NorthStar,SUP011,69.3,105.97,19.29,164,250,1
+ELE-0011,Wall Outlet,Electrical,,PrimeWorks,SUP006,113.2,149.04,71.15,57,25,1
+FAS-0008,Concrete Anchors,Fasteners,,Apex,SUP012,157.39,240.22,56.23,61,500,1
+ELE-0012,Light Switch,Electrical,,PrimeWorks,SUP007,110.73,167.89,101.89,105,100,1
+HVA-0018,Flexible Duct,HVAC,,ProBuild,SUP013,133.84,173.78,4.2,46,250,1
+HVA-0019,Vent Register,HVAC,,NorthStar,SUP010,94.25,126.45,36.54,91,100,1
+SAF-0013,Ear Protection,Safety,,SafeGuard,SUP007,53.73,70.02,132.75,179,25,1
+ELE-0013,Electrical Wire,Electrical,,MasterCraft,SUP015,100.59,121.21,25.88,70,100,1
+FAS-0009,Washers,Fasteners,,ProBuild,SUP002,117.71,170.35,127.81,11,75,1
+HVA-0020,Thermostat,HVAC,,NorthStar,SUP013,230.42,336.39,111.1,169,50,1
+FAS-0010,Washers,Fasteners,,SafeGuard,SUP002,179.82,274.01,129.48,167,500,1
+ELE-0014,Extension Cord,Electrical,,PrimeWorks,SUP013,187.42,267.84,75.4,62,100,1
+PWR-0009,Cordless Drill,Power Tools,,Industrial Plus,SUP010,127.49,160.64,47.97,72,100,1
+ELE-0015,Extension Cord,Electrical,,NorthStar,SUP013,171.18,235.17,75.03,52,500,1
+PWR-0010,Angle Grinder,Power Tools,,Apex,SUP006,171.64,253.49,111.69,69,75,1
+ELE-0016,Electrical Wire,Electrical,,ProBuild,SUP002,157.98,201.27,17.51,120,250,1
+ELE-0017,Wall Outlet,Electrical,,MasterCraft,SUP011,97.21,118.57,40.96,96,250,1
+FAS-0011,Lag Bolts,Fasteners,,Apex,SUP011,13.61,21.32,123.07,26,500,1
+HVA-0021,Air Filter,HVAC,,NorthStar,SUP012,179.94,259.1,125.78,178,50,1
+ELE-0018,Electrical Wire,Electrical,,SafeGuard,SUP001,93.68,118.78,147.96,35,100,1
+HVA-0022,Vent Register,HVAC,,Titan,SUP012,238.16,370.76,107.1,129,25,1
+ELE-0019,Wall Outlet,Electrical,,SafeGuard,SUP002,245.19,317.7,149.94,151,25,1
+PWR-0011,Circular Saw,Power Tools,,Industrial Plus,SUP019,47.93,74.14,116.53,93,100,1
+FAS-0012,Lag Bolts,Fasteners,,Industrial Plus,SUP015,195.32,299.09,60.99,136,100,1
+HVA-0023,Flexible Duct,HVAC,,MasterCraft,SUP015,42.11,62.35,77.67,39,500,1
+FAS-0013,Lag Bolts,Fasteners,,Industrial Plus,SUP003,148.79,207.72,128.27,120,500,1
+ELE-0020,Light Switch,Electrical,,Industrial Plus,SUP014,11.49,14.68,97.84,76,100,1
+PWR-0012,Hammer Drill,Power Tools,,SafeGuard,SUP015,17.42,26.31,62.87,49,100,1
+ELE-0021,Extension Cord,Electrical,,SafeGuard,SUP011,231.4,356.74,48.07,104,50,1
+SAF-0014,Safety Glasses,Safety,,NorthStar,SUP018,42.86,57.19,108.34,162,500,1
+HVA-0024,Thermostat,HVAC,,SafeGuard,SUP010,25.04,36.11,115.57,189,75,1
+HVA-0025,Blower Motor,HVAC,,SafeGuard,SUP001,111.39,167.69,123.14,112,25,1
+FAS-0014,Lag Bolts,Fasteners,,MasterCraft,SUP011,96.04,128.22,67.13,164,500,1
+FAS-0015,Wood Screws,Fasteners,,Apex,SUP010,106.33,128.83,32.8,180,25,1
+ELE-0022,Wall Outlet,Electrical,,Titan,SUP009,61.35,78.02,41.04,97,100,1
+PWR-0013,Impact Driver,Power Tools,,ProBuild,SUP007,81.55,115.88,60.06,143,25,1
+SAF-0015,Work Gloves,Safety,,Titan,SUP018,132.98,164.3,49.85,178,75,1
+FAS-0016,Lag Bolts,Fasteners,,Industrial Plus,SUP005,232.32,371.01,27.28,184,100,1
+SAF-0016,Safety Glasses,Safety,,Titan,SUP008,6.79,10.67,52.32,83,25,1
+FAS-0017,Washers,Fasteners,,NorthStar,SUP018,74.5,96.24,81.74,25,50,1
+HVA-0026,Thermostat,HVAC,,ProBuild,SUP017,42.54,59.19,86.74,103,100,1
+HVA-0027,Air Filter,HVAC,,MasterCraft,SUP011,42.62,62.42,140.72,68,75,1
+PWR-0014,Cordless Drill,Power Tools,,Apex,SUP007,136.86,183.55,57.61,122,75,1
+HVA-0028,Blower Motor,HVAC,,Industrial Plus,SUP016,173.77,225.95,66.06,34,50,1
+ELE-0023,Extension Cord,Electrical,,Apex,SUP019,124.48,191.77,56.59,161,75,1
+FAS-0018,Washers,Fasteners,,SafeGuard,SUP011,25.39,40.45,54.19,111,75,1
+SAF-0017,Ear Protection,Safety,,Titan,SUP005,139.11,218.81,64.45,188,250,1
