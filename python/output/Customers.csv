@@ -1,0 +1,501 @@
+CustomerCode,CustomerName,City,State,Industry,Segment,CreditLimit,RiskScore
+CUST00001,Olsen Inc,New Brianshire,OR,Retail,Medium,10000,72
+CUST00002,Taylor-Hall,Robertsonton,IL,Retail,Medium,25000,76
+CUST00003,Middleton-Simon,North Rita,MH,Construction,Medium,10000,18
+CUST00004,Sims-Thompson,Frankville,IN,Healthcare,Enterprise,50000,79
+CUST00005,Thomas LLC,West Cheyenneside,AZ,Manufacturing,Small,100000,59
+CUST00006,Brewer-Gutierrez,New Susan,WI,Retail,Small,100000,98
+CUST00007,"Carlson, Gomez and Harris",East Andrewview,MI,Healthcare,Small,50000,10
+CUST00008,Johnston-Wright,New Rachelton,WV,Government,Enterprise,25000,95
+CUST00009,Bird LLC,Melindaborough,CT,Manufacturing,Medium,25000,11
+CUST00010,Baird and Sons,Brownshire,OK,Manufacturing,Enterprise,10000,19
+CUST00011,"Stuart, Kelly and Anderson",Danielleburgh,FM,Healthcare,Small,100000,5
+CUST00012,Mitchell and Sons,Port Markstad,IN,Construction,Enterprise,50000,60
+CUST00013,Burch and Sons,East Margaret,SC,Manufacturing,Medium,10000,24
+CUST00014,Madden Ltd,Sarahfort,WI,Manufacturing,Medium,10000,48
+CUST00015,Gilbert-Hill,Kevinchester,OK,Education,Enterprise,50000,61
+CUST00016,Ferguson-Doyle,Sullivanmouth,MN,Construction,Small,25000,60
+CUST00017,Lee LLC,Haleyburgh,OK,Manufacturing,Small,50000,25
+CUST00018,Guerrero-Gomez,Mccartyport,ME,Manufacturing,Enterprise,100000,77
+CUST00019,Donovan and Sons,Austinside,GA,Education,Enterprise,100000,28
+CUST00020,Davis PLC,Johnshire,VT,Healthcare,Enterprise,50000,1
+CUST00021,"Rice, Obrien and Durham",Port Jaimeborough,ND,Retail,Medium,25000,1
+CUST00022,Smith-Howell,Richardfort,SD,Government,Medium,10000,62
+CUST00023,Smith-Valdez,Hicksmouth,IA,Healthcare,Enterprise,25000,26
+CUST00024,Brown Group,South Jessicaton,MH,Manufacturing,Small,25000,11
+CUST00025,Mason-May,West Michael,FM,Construction,Enterprise,50000,77
+CUST00026,Hughes-Melendez,West Rebeccafurt,UT,Healthcare,Enterprise,25000,60
+CUST00027,Gates-Ingram,Frankmouth,ID,Healthcare,Enterprise,50000,96
+CUST00028,Stevens Inc,West Earl,MO,Construction,Enterprise,100000,71
+CUST00029,"Anderson, Bailey and Murray",New Monique,UT,Retail,Medium,100000,98
+CUST00030,Davis-Garrett,Timshire,MN,Construction,Medium,10000,35
+CUST00031,Barnes-Price,Port Heather,DE,Retail,Medium,100000,31
+CUST00032,Anderson-Ramirez,South Susanberg,MP,Education,Enterprise,25000,63
+CUST00033,"Carter, Hoffman and Newman",Jacquelinemouth,MA,Healthcare,Small,25000,11
+CUST00034,"Giles, Wang and Willis",Campbellfurt,IL,Government,Small,10000,20
+CUST00035,Walton Ltd,West Heathertown,CA,Healthcare,Enterprise,10000,35
+CUST00036,"Lewis, Clark and Stevens",Port Michaelstad,AS,Healthcare,Small,25000,99
+CUST00037,Rios and Sons,Davisberg,MO,Retail,Medium,10000,91
+CUST00038,"Smith, Schultz and Lane",Michaelshire,MO,Manufacturing,Enterprise,10000,80
+CUST00039,"Flores, Stewart and Richards",Samueltown,MD,Healthcare,Enterprise,50000,87
+CUST00040,Thomas Inc,Hansenmouth,WA,Healthcare,Enterprise,25000,12
+CUST00041,Allen Inc,New Philip,AR,Healthcare,Enterprise,100000,62
+CUST00042,Marks Inc,East Adamhaven,WV,Manufacturing,Medium,100000,8
+CUST00043,Larsen-Hunt,North Royport,HI,Manufacturing,Small,25000,25
+CUST00044,"Flores, Coleman and Snyder",Williamsborough,OK,Retail,Small,50000,57
+CUST00045,Castro Group,Jessicaport,FM,Manufacturing,Enterprise,10000,76
+CUST00046,Baker Group,Oliverburgh,AL,Retail,Small,10000,75
+CUST00047,Mccarthy-Smith,Lake Nathan,MO,Construction,Enterprise,25000,28
+CUST00048,"Horton, Morrison and Hall",Bellburgh,WA,Healthcare,Enterprise,10000,23
+CUST00049,"Fox, Hoffman and Jordan",Brandiberg,HI,Government,Small,10000,64
+CUST00050,Lawson-Sanchez,Murphybury,PR,Education,Medium,100000,72
+CUST00051,Holloway-Gray,Simonhaven,AL,Construction,Enterprise,10000,4
+CUST00052,Roberts PLC,Westfurt,ME,Retail,Enterprise,100000,50
+CUST00053,Chang-Carrillo,Port Carriestad,FL,Manufacturing,Small,25000,79
+CUST00054,Smith PLC,West Samuelstad,PW,Retail,Medium,100000,68
+CUST00055,Delgado Inc,Danielborough,FM,Retail,Enterprise,10000,81
+CUST00056,Carlson Inc,West John,AK,Education,Small,10000,86
+CUST00057,Ford-Moody,Tracyland,OH,Retail,Small,100000,59
+CUST00058,"Baker, Cox and Harrison",Jenniferville,NE,Retail,Enterprise,100000,35
+CUST00059,Campbell-Allison,Danielville,AS,Manufacturing,Small,100000,87
+CUST00060,Ortiz-Brown,Jamesmouth,OK,Healthcare,Enterprise,10000,21
+CUST00061,Cole and Sons,South Carrieland,AK,Manufacturing,Small,10000,36
+CUST00062,"Shelton, Stafford and Robinson",South Jeffreyhaven,CT,Retail,Small,25000,30
+CUST00063,Wu-Hart,New Daniel,ME,Manufacturing,Enterprise,10000,7
+CUST00064,Campbell-Mcbride,East Georgeshire,IA,Retail,Medium,100000,36
+CUST00065,Livingston Group,Dayburgh,MO,Retail,Enterprise,10000,92
+CUST00066,Grant-Hogan,Juliefurt,AL,Government,Medium,50000,32
+CUST00067,Arroyo Inc,Desireeport,LA,Healthcare,Small,100000,23
+CUST00068,Berger Inc,Milesberg,FM,Manufacturing,Medium,50000,16
+CUST00069,Bowen-Ortiz,Lake Adamhaven,ID,Construction,Medium,100000,46
+CUST00070,Taylor-Smith,New Angelica,ID,Construction,Small,100000,55
+CUST00071,Koch LLC,Philiptown,MO,Manufacturing,Small,100000,89
+CUST00072,Harmon-Gonzalez,Brianbury,SD,Healthcare,Medium,100000,7
+CUST00073,"Hernandez, Robertson and Hernandez",Markstad,PR,Healthcare,Small,100000,88
+CUST00074,Green and Sons,Robertton,DC,Government,Small,50000,23
+CUST00075,Burch PLC,Taylorborough,AZ,Education,Medium,100000,32
+CUST00076,"Martin, Lewis and Berry",East Kylefort,WA,Education,Medium,100000,25
+CUST00077,Davis and Sons,South Kevin,RI,Retail,Enterprise,25000,76
+CUST00078,Harris-Lopez,Port Jasmine,ND,Education,Enterprise,25000,7
+CUST00079,Evans-Barnett,Danielview,MD,Construction,Enterprise,10000,66
+CUST00080,Parrish and Sons,Cookberg,WY,Government,Enterprise,25000,87
+CUST00081,Lambert and Sons,North Edwardberg,MN,Retail,Medium,50000,28
+CUST00082,Gray LLC,Escobarview,NV,Government,Small,10000,21
+CUST00083,Smith-Floyd,East Briannaport,KS,Education,Small,50000,85
+CUST00084,Nelson-Andrews,Morriston,IL,Healthcare,Medium,10000,43
+CUST00085,Alvarez Ltd,New Laura,WV,Healthcare,Enterprise,10000,99
+CUST00086,Singh and Sons,North Amanda,IA,Government,Enterprise,25000,94
+CUST00087,Klein Group,East Juliaside,NC,Healthcare,Enterprise,50000,56
+CUST00088,Dorsey-Martin,East Jacqueline,HI,Government,Enterprise,25000,51
+CUST00089,Forbes PLC,West Jessicaburgh,CO,Education,Medium,100000,1
+CUST00090,Price-Norman,West Rebecca,VI,Healthcare,Small,25000,9
+CUST00091,Atkinson PLC,Lambfurt,PR,Retail,Enterprise,25000,50
+CUST00092,Estes-Bishop,Port Anthonybury,MD,Construction,Enterprise,25000,78
+CUST00093,Smith PLC,Nguyenmouth,GA,Education,Enterprise,100000,86
+CUST00094,"Vargas, Fischer and Martinez",New Stephanieville,ND,Construction,Medium,10000,7
+CUST00095,Li-Taylor,South Timothyside,MH,Retail,Small,25000,77
+CUST00096,"Sparks, Huffman and Sims",Reedbury,UT,Healthcare,Small,50000,48
+CUST00097,Mcknight-Douglas,Michaelview,NY,Healthcare,Small,25000,94
+CUST00098,Gilbert-Smith,West Mariamouth,SC,Government,Enterprise,25000,48
+CUST00099,"Morris, Love and Kim",Port Hayleytown,ND,Government,Medium,50000,42
+CUST00100,Allen LLC,Smithville,SD,Retail,Enterprise,25000,60
+CUST00101,"Jones, Vasquez and Rodriguez",Marshallhaven,GA,Construction,Medium,25000,7
+CUST00102,"Anderson, Galloway and Chase",South Brianmouth,WV,Education,Enterprise,100000,37
+CUST00103,"Gilmore, Mcbride and Mann",Baileyshire,UT,Healthcare,Medium,10000,26
+CUST00104,Swanson Ltd,Gardnerville,MA,Healthcare,Medium,100000,20
+CUST00105,Clark Group,East Toddville,UT,Healthcare,Small,100000,64
+CUST00106,"White, Gonzalez and Brock",Phelpsview,NC,Government,Medium,10000,2
+CUST00107,"Riley, Davies and Hill",Cynthiaborough,RI,Education,Small,10000,32
+CUST00108,Watts-Riggs,East Lisatown,VA,Construction,Medium,10000,42
+CUST00109,Alvarez-Johnson,Meyersshire,VI,Manufacturing,Small,10000,7
+CUST00110,Burns-Calhoun,Scottland,TN,Education,Enterprise,100000,55
+CUST00111,Vasquez-Freeman,North Christina,MH,Education,Medium,10000,67
+CUST00112,Wallace-Watkins,Rodriguezmouth,IA,Retail,Medium,50000,8
+CUST00113,Li-Arnold,South Haileyton,GU,Manufacturing,Enterprise,50000,8
+CUST00114,Harris-Richard,New Andrew,OH,Healthcare,Enterprise,10000,1
+CUST00115,Rodriguez Ltd,Christopherfort,PW,Manufacturing,Medium,25000,73
+CUST00116,"Cunningham, Moran and Clarke",New Cameronstad,WV,Healthcare,Medium,10000,33
+CUST00117,"Hardy, Smith and Hill",Lake Julia,LA,Education,Small,50000,88
+CUST00118,"Ryan, Gillespie and Petersen",Lake Keithberg,MP,Government,Medium,25000,8
+CUST00119,Hughes-Stephenson,Port Morgan,NH,Manufacturing,Medium,100000,5
+CUST00120,Harris LLC,Jenniferborough,ME,Manufacturing,Small,100000,73
+CUST00121,Ortega-Tate,Darleneborough,ND,Manufacturing,Enterprise,25000,53
+CUST00122,"Horn, Johnson and Coleman",Hillland,OR,Healthcare,Small,100000,4
+CUST00123,"Thompson, Rodriguez and Mullins",Brandontown,ME,Healthcare,Enterprise,100000,99
+CUST00124,"Barrett, Cook and Whitehead",New Michelle,IL,Retail,Medium,25000,53
+CUST00125,"Smith, Reynolds and Mcgee",East Michaelmouth,IA,Construction,Small,100000,72
+CUST00126,Ray PLC,West Zacharyhaven,ND,Education,Small,25000,2
+CUST00127,Campbell Ltd,North Kyleland,KS,Retail,Medium,10000,25
+CUST00128,Ward LLC,South Darrenstad,KS,Government,Enterprise,50000,3
+CUST00129,Harmon-Johnson,Hernandezfurt,NC,Manufacturing,Small,50000,83
+CUST00130,Phillips-Clark,New Jeffreyshire,ID,Government,Medium,50000,46
+CUST00131,"Whitehead, Howard and Morales",Amberton,ME,Construction,Enterprise,100000,36
+CUST00132,Parker-Dean,Lake Jason,FL,Education,Enterprise,10000,21
+CUST00133,Garcia-Burton,North Brittanytown,TN,Education,Small,10000,62
+CUST00134,"Cruz, Lozano and Mendez",New Shannon,FM,Education,Enterprise,100000,12
+CUST00135,Green and Sons,Lake Elizabethtown,DE,Government,Enterprise,25000,22
+CUST00136,Hill Ltd,Jefferyberg,CA,Construction,Small,10000,9
+CUST00137,"Potter, Smith and Cortez",New Katherine,ID,Retail,Small,100000,92
+CUST00138,Davis-Mills,New Dylanmouth,AS,Government,Medium,10000,49
+CUST00139,Brooks-Yang,Port Malik,VA,Government,Enterprise,25000,36
+CUST00140,Wolfe-Welch,Patriciashire,CT,Manufacturing,Small,100000,79
+CUST00141,Campos-Perry,Torresshire,IA,Government,Enterprise,10000,67
+CUST00142,Maddox-Daniels,Johnsonbury,VA,Government,Medium,10000,10
+CUST00143,Lamb-Oconnor,Gardnermouth,RI,Education,Medium,50000,88
+CUST00144,Brown Group,Denisemouth,AL,Government,Medium,25000,30
+CUST00145,Lee-Ferguson,Pageport,GA,Government,Small,25000,64
+CUST00146,Beasley Ltd,Ingramstad,MP,Government,Medium,25000,72
+CUST00147,Davis-Sampson,Pittsstad,MH,Construction,Medium,25000,84
+CUST00148,Clark LLC,East Amandamouth,PW,Retail,Medium,100000,75
+CUST00149,Stephens and Sons,East Catherineside,FM,Construction,Medium,100000,54
+CUST00150,Clark PLC,Bethchester,MI,Healthcare,Medium,25000,8
+CUST00151,Phillips Inc,Christinaside,NV,Retail,Small,50000,38
+CUST00152,"Norman, Young and Payne",West Sandraberg,IA,Government,Medium,25000,9
+CUST00153,"Morgan, Williams and Cowan",Lake Katherine,WV,Education,Small,25000,91
+CUST00154,Barton Group,Port Timothyshire,NE,Retail,Small,25000,16
+CUST00155,Parker-Williams,Port Sarah,AL,Retail,Enterprise,100000,33
+CUST00156,"Hart, Montgomery and Allison",East Rebekah,FM,Healthcare,Small,10000,87
+CUST00157,Tran-Black,West Haley,PR,Education,Small,10000,92
+CUST00158,Williams PLC,Kimton,KY,Construction,Small,50000,57
+CUST00159,"Joyce, Fields and Garcia",South Joshuachester,WY,Construction,Enterprise,100000,16
+CUST00160,Evans-Roberts,East John,AL,Construction,Small,100000,34
+CUST00161,Edwards and Sons,Chrisport,NH,Education,Enterprise,10000,8
+CUST00162,"Carey, Morgan and Howard",South Veronica,ME,Construction,Small,100000,42
+CUST00163,Lam Inc,Amandatown,NJ,Government,Enterprise,25000,55
+CUST00164,Adams-Conrad,Donnashire,AR,Construction,Enterprise,25000,4
+CUST00165,"Williams, Valdez and Ortiz",Lake Lindsay,OH,Construction,Enterprise,25000,91
+CUST00166,Taylor Group,North Erika,MS,Manufacturing,Medium,100000,34
+CUST00167,Cantrell Group,Tiffanymouth,IN,Manufacturing,Medium,25000,15
+CUST00168,Walker Ltd,East William,CA,Education,Medium,50000,100
+CUST00169,"Blair, Evans and Kemp",Williammouth,WV,Construction,Small,25000,23
+CUST00170,Dunlap-Rogers,Perkinsborough,NY,Education,Enterprise,50000,24
+CUST00171,"Sanchez, Williams and Johnson",Kaneville,NY,Construction,Small,50000,26
+CUST00172,Ingram-Mccormick,Lake Matthewside,ND,Construction,Enterprise,25000,2
+CUST00173,Hoffman PLC,New Michelle,AK,Government,Small,50000,5
+CUST00174,Rowe-Lee,Mcdanielshire,NH,Government,Medium,10000,99
+CUST00175,"Stark, Berg and Martinez",Lake Michaelside,NE,Manufacturing,Small,100000,85
+CUST00176,"Campbell, Cardenas and Martin",Dustinview,FM,Construction,Enterprise,50000,100
+CUST00177,Roberts-Gonzalez,North John,RI,Manufacturing,Small,100000,98
+CUST00178,Glenn LLC,Melissachester,HI,Retail,Medium,10000,84
+CUST00179,Scott-Clark,North Anita,OR,Retail,Medium,50000,14
+CUST00180,Hernandez Inc,Jenkinschester,KS,Government,Medium,10000,78
+CUST00181,Johnson LLC,Nobleberg,MD,Education,Enterprise,100000,54
+CUST00182,"Williams, Galloway and Thompson",West Anthonyton,VA,Government,Medium,25000,97
+CUST00183,"Carpenter, Robinson and Mccarthy",North Amberville,SC,Government,Medium,10000,48
+CUST00184,Brewer and Sons,Nicholastown,UT,Manufacturing,Small,25000,31
+CUST00185,"Perez, Bailey and Allen",Mendozamouth,MN,Healthcare,Enterprise,10000,35
+CUST00186,Bowman PLC,Davisbury,MA,Retail,Enterprise,25000,51
+CUST00187,Mccarthy-Lane,West Joseph,IA,Retail,Medium,10000,56
+CUST00188,Roy-Ibarra,New Andrewtown,AZ,Healthcare,Enterprise,10000,42
+CUST00189,Banks-Mays,Port Julie,OK,Government,Medium,25000,68
+CUST00190,"Mora, Wong and Phillips",Andrewtown,WI,Healthcare,Small,25000,14
+CUST00191,Fox-Oliver,Kellyton,IL,Manufacturing,Medium,25000,2
+CUST00192,"Mccann, Green and Hall",Chaseborough,NE,Education,Small,25000,21
+CUST00193,Wiley LLC,South Phillip,MT,Retail,Small,100000,94
+CUST00194,Taylor-Holloway,Hughesmouth,AS,Construction,Enterprise,25000,90
+CUST00195,Lucas Group,Powersbury,GA,Retail,Small,100000,4
+CUST00196,Carroll Group,Jamesshire,PA,Healthcare,Enterprise,10000,1
+CUST00197,Williams-Hudson,Katieton,ND,Manufacturing,Medium,25000,93
+CUST00198,"Mcclure, Murray and Cunningham",Johnburgh,MN,Construction,Medium,100000,45
+CUST00199,Farley-Christensen,Eatonstad,UT,Government,Enterprise,25000,12
+CUST00200,Allen and Sons,Owenshaven,UT,Manufacturing,Medium,50000,2
+CUST00201,Soto Inc,Jasmineshire,WV,Government,Medium,25000,94
+CUST00202,Stephens-Hines,East Jonathanview,ND,Healthcare,Medium,100000,8
+CUST00203,"Brown, Keller and Simpson",Fredbury,FM,Construction,Medium,25000,5
+CUST00204,Jenkins-Clark,Port Brian,FM,Retail,Medium,100000,41
+CUST00205,Holland-Carter,Reedside,MA,Education,Medium,50000,65
+CUST00206,"Gonzalez, Malone and Gillespie",Moralestown,LA,Retail,Medium,25000,30
+CUST00207,"Joyce, Simmons and Mcdonald",Ashleyland,OR,Government,Medium,25000,100
+CUST00208,Nelson-Palmer,Katherineview,AK,Healthcare,Small,50000,29
+CUST00209,Harrison-Morris,Wademouth,IN,Manufacturing,Medium,10000,73
+CUST00210,Galvan-Robertson,West Crystalfort,RI,Government,Medium,100000,78
+CUST00211,Casey LLC,West Jason,FM,Education,Medium,100000,29
+CUST00212,Hancock-Cook,East Paul,VI,Construction,Small,10000,40
+CUST00213,"Marsh, Walters and Parker",Port Phillip,AZ,Construction,Enterprise,10000,97
+CUST00214,"Walsh, Harris and Dixon",Thorntonbury,MP,Healthcare,Enterprise,100000,73
+CUST00215,Phelps and Sons,Port Johnmouth,RI,Manufacturing,Enterprise,25000,88
+CUST00216,"Hatfield, Davis and Mccarthy",Jasonville,LA,Retail,Medium,50000,61
+CUST00217,"Acosta, Cordova and Greene",Westland,LA,Healthcare,Medium,10000,95
+CUST00218,Aguilar and Sons,Heatherchester,OR,Construction,Medium,50000,60
+CUST00219,"Arellano, Jordan and Mitchell",Kathrynside,VI,Education,Medium,10000,33
+CUST00220,Rivera-Hernandez,Jakemouth,MP,Healthcare,Small,100000,26
+CUST00221,"Howard, Price and Robinson",Markburgh,AZ,Retail,Small,100000,20
+CUST00222,"Alexander, Fuller and Lopez",Williamston,ID,Construction,Medium,10000,72
+CUST00223,"Nichols, King and Ayers",West Lesliefort,IA,Education,Small,10000,90
+CUST00224,"Vasquez, Melton and Dudley",Lake Matthew,FM,Manufacturing,Enterprise,10000,85
+CUST00225,Perry PLC,West Dustinmouth,OK,Government,Small,10000,81
+CUST00226,Ward-Rodriguez,East Nicholashaven,CA,Education,Medium,50000,45
+CUST00227,Pratt Group,Port Elizabeth,VT,Manufacturing,Medium,25000,24
+CUST00228,"Gutierrez, Holmes and Gutierrez",Lindsayfort,AL,Government,Medium,10000,61
+CUST00229,Stephens and Sons,New Waynestad,DC,Healthcare,Enterprise,50000,50
+CUST00230,Jones-Barry,North Kimberlyland,PA,Education,Enterprise,10000,5
+CUST00231,Ross-Green,Lake Misty,ND,Construction,Medium,50000,55
+CUST00232,Young Inc,New Anthony,LA,Retail,Enterprise,100000,42
+CUST00233,Cruz-Henry,Duranville,VT,Education,Small,50000,10
+CUST00234,Williams-Barnett,Port Todd,NY,Manufacturing,Small,50000,81
+CUST00235,Conrad Ltd,Andersonhaven,MP,Retail,Enterprise,10000,96
+CUST00236,Jones-Ferrell,South Edward,SD,Retail,Enterprise,10000,96
+CUST00237,Walsh Ltd,Cartershire,MT,Retail,Enterprise,25000,61
+CUST00238,"Ross, Gibbs and Lawrence",Seanfurt,MA,Construction,Medium,100000,13
+CUST00239,"Ball, Gardner and Crawford",Donaldville,TN,Manufacturing,Small,25000,48
+CUST00240,Santiago PLC,South Brandonborough,AZ,Government,Medium,25000,23
+CUST00241,Ortega Ltd,Lake Keith,AR,Education,Small,25000,38
+CUST00242,"Stephens, Olsen and Willis",Vegaton,MS,Manufacturing,Enterprise,25000,96
+CUST00243,"Sellers, Hernandez and Stokes",West Jeremy,HI,Retail,Enterprise,10000,56
+CUST00244,Romero-Torres,North Dakotashire,PW,Construction,Medium,50000,28
+CUST00245,Castillo Group,Lake Deborah,WY,Government,Medium,25000,73
+CUST00246,Ramsey-Smith,South Samanthaton,TN,Healthcare,Enterprise,25000,41
+CUST00247,Smith PLC,West Sharonside,ID,Manufacturing,Small,100000,47
+CUST00248,"Morris, Farley and Lawrence",Meghanhaven,NC,Manufacturing,Small,25000,63
+CUST00249,Haynes-Williams,Mccartybury,UT,Retail,Medium,10000,90
+CUST00250,"Zavala, Hart and Robinson",Williamberg,MO,Healthcare,Medium,100000,7
+CUST00251,Moore Inc,East Barbaraville,HI,Education,Enterprise,50000,16
+CUST00252,"Gutierrez, Smith and White",Davidborough,MP,Manufacturing,Small,25000,58
+CUST00253,Cardenas Group,North Stacy,VT,Retail,Medium,50000,38
+CUST00254,Roth Group,New Bradleyville,ID,Healthcare,Small,100000,67
+CUST00255,Young-Smith,Adamsberg,NC,Education,Medium,50000,96
+CUST00256,Cooper-Goodwin,North Jameschester,NE,Government,Medium,10000,49
+CUST00257,"Wilson, Clarke and Williams",West Manuel,ID,Government,Medium,100000,25
+CUST00258,Walker Group,Lake Lindafurt,NJ,Education,Small,10000,23
+CUST00259,"Sosa, Shaw and Moore",Lake Rachel,ME,Construction,Small,25000,33
+CUST00260,Roman-Strong,East Diana,GU,Government,Enterprise,100000,4
+CUST00261,"Gillespie, Torres and Maxwell",Margarethaven,MP,Government,Small,25000,56
+CUST00262,"Chapman, Santiago and Kennedy",Port Tammy,ND,Construction,Enterprise,50000,70
+CUST00263,Collins-Lynch,Bradleyside,VI,Education,Enterprise,50000,6
+CUST00264,Reynolds-Evans,Coryfurt,PA,Construction,Medium,10000,90
+CUST00265,Barnes PLC,Martinmouth,VA,Manufacturing,Small,100000,87
+CUST00266,"Howard, Russell and Rodriguez",Hannahbury,AZ,Retail,Small,50000,8
+CUST00267,Hernandez and Sons,New Norman,MN,Manufacturing,Small,25000,71
+CUST00268,Miller-Nguyen,South Margaretport,KY,Retail,Enterprise,25000,16
+CUST00269,Crawford Inc,Crosbyview,AR,Education,Medium,50000,72
+CUST00270,Walker-Cooper,New Amandaville,MH,Education,Medium,50000,40
+CUST00271,Marks and Sons,North Matthew,AS,Healthcare,Medium,100000,28
+CUST00272,Gonzalez and Sons,New Daniel,VT,Construction,Enterprise,100000,8
+CUST00273,Johnson-Saunders,West Karen,AZ,Government,Enterprise,50000,6
+CUST00274,"Mejia, Ortega and Harris",Josephport,MS,Manufacturing,Small,10000,71
+CUST00275,"Brown, Coleman and Miller",Thomaston,UT,Manufacturing,Enterprise,100000,68
+CUST00276,"Martinez, Rogers and Goodwin",Davidborough,PW,Education,Enterprise,25000,58
+CUST00277,"Calderon, Warren and Powell",Youngberg,MO,Construction,Enterprise,50000,7
+CUST00278,Deleon-Cook,New Josephport,NM,Manufacturing,Medium,100000,97
+CUST00279,"Thomas, Parker and Carrillo",Reynoldsport,MO,Construction,Small,10000,73
+CUST00280,Mitchell LLC,Warrenfort,IN,Manufacturing,Medium,25000,54
+CUST00281,Allen-Shea,East Christine,TX,Construction,Enterprise,50000,7
+CUST00282,Dyer-Howe,Lake Colleenton,OR,Education,Medium,10000,14
+CUST00283,"Castillo, Moore and Moore",Murphyside,CT,Government,Medium,50000,69
+CUST00284,Durham Ltd,Thompsonview,MN,Education,Small,10000,55
+CUST00285,"Mccoy, Koch and Curtis",Wilsonmouth,AL,Manufacturing,Enterprise,10000,47
+CUST00286,Le-Frederick,Denniston,PW,Healthcare,Enterprise,25000,78
+CUST00287,"Smith, Williams and Miller",Weberstad,MD,Construction,Small,10000,54
+CUST00288,"Gonzalez, Ritter and Cortez",West Carlos,RI,Healthcare,Medium,50000,62
+CUST00289,Weaver-Lamb,Lake Danielle,NC,Healthcare,Enterprise,100000,50
+CUST00290,Wong-Johnson,Jordanstad,PW,Government,Medium,100000,44
+CUST00291,Holt Group,Thomasbury,IA,Healthcare,Enterprise,100000,44
+CUST00292,Martinez Group,North Melissachester,NC,Government,Small,10000,34
+CUST00293,"Brown, Romero and Brown",New Elizabethchester,AS,Government,Medium,10000,71
+CUST00294,Jones Inc,New Calebton,DE,Manufacturing,Small,10000,36
+CUST00295,Hester Ltd,West Anthonyview,SD,Healthcare,Small,50000,92
+CUST00296,Bell and Sons,Michaelport,OK,Manufacturing,Medium,25000,26
+CUST00297,Brown-Dickson,West Stephanie,AK,Government,Medium,10000,36
+CUST00298,Wu-Hansen,Michealville,MH,Government,Small,100000,97
+CUST00299,Smith-Gallagher,Lake Nicholasbury,AS,Healthcare,Enterprise,25000,18
+CUST00300,"Nichols, Johnson and Williams",North Davidchester,FM,Construction,Small,10000,57
+CUST00301,"Green, Lee and Barr",New Tiffanyport,TX,Manufacturing,Small,25000,24
+CUST00302,Gibson Inc,North Jeffreyton,PR,Retail,Enterprise,10000,63
+CUST00303,Contreras Inc,Amyview,SD,Manufacturing,Enterprise,25000,94
+CUST00304,Simmons-Burton,Murphyshire,TN,Manufacturing,Enterprise,100000,59
+CUST00305,Hill-Smith,North James,MH,Retail,Enterprise,25000,46
+CUST00306,Rodgers-Holmes,Lawrencemouth,HI,Retail,Medium,25000,8
+CUST00307,Frazier and Sons,East Whitneyville,HI,Construction,Medium,50000,9
+CUST00308,"Davies, Sampson and Martin",East Emilyview,NH,Retail,Enterprise,100000,94
+CUST00309,"Collins, Mcdonald and Stephens",Kimton,VA,Healthcare,Small,100000,10
+CUST00310,"Cruz, Parker and Donovan",Port Nichole,MI,Government,Small,50000,10
+CUST00311,Farrell and Sons,Robinstad,KS,Education,Small,10000,39
+CUST00312,Moore-Thomas,West Kelly,WA,Government,Enterprise,50000,29
+CUST00313,Rhodes LLC,North Edward,GA,Manufacturing,Medium,50000,79
+CUST00314,Melendez-Webb,Garrettside,MN,Education,Enterprise,25000,71
+CUST00315,Williams Inc,East Vincentport,GA,Manufacturing,Medium,50000,40
+CUST00316,"Lewis, Smith and Miller",Carolynborough,NV,Healthcare,Medium,10000,97
+CUST00317,Lawrence-Wong,Walshside,IL,Government,Medium,100000,10
+CUST00318,Blake-Thomas,East John,NC,Construction,Medium,25000,50
+CUST00319,"Bennett, Espinoza and Delgado",West Devinmouth,LA,Government,Small,10000,48
+CUST00320,Fisher and Sons,Jamesville,IN,Education,Small,100000,69
+CUST00321,Wolf-Rodriguez,North Donnaport,ID,Retail,Enterprise,50000,94
+CUST00322,Yoder LLC,Port Brendaview,MI,Education,Medium,10000,16
+CUST00323,"Johnson, Bowman and Clark",Lake Stevenberg,KY,Healthcare,Small,25000,100
+CUST00324,"Ramirez, Mcdonald and Lutz",Port Jacqueline,OR,Manufacturing,Enterprise,100000,6
+CUST00325,"Adams, Brown and Aguilar",North Jessica,AL,Construction,Small,100000,48
+CUST00326,Marsh Group,Petersonchester,IL,Healthcare,Medium,10000,9
+CUST00327,"Shaffer, Rios and Simpson",Glassfurt,SD,Retail,Enterprise,100000,31
+CUST00328,Mcfarland-Parker,New Bryan,HI,Healthcare,Small,25000,43
+CUST00329,Cline PLC,East Shannon,AS,Construction,Enterprise,10000,13
+CUST00330,Suarez and Sons,West Courtneymouth,CA,Construction,Medium,100000,79
+CUST00331,Perez and Sons,North Loristad,KS,Education,Medium,25000,4
+CUST00332,Jacobs and Sons,Barberbury,AS,Retail,Small,10000,2
+CUST00333,"Miranda, Schneider and Fuentes",Lake Brandon,AS,Construction,Medium,100000,33
+CUST00334,Estes-Roman,Thomasberg,HI,Healthcare,Small,50000,66
+CUST00335,Kelley-Perez,North Jermaine,WY,Construction,Medium,25000,2
+CUST00336,"Herrera, Shelton and Campbell",Parkerport,HI,Manufacturing,Small,50000,93
+CUST00337,Hart-Smith,West Bryan,GA,Healthcare,Medium,50000,4
+CUST00338,Evans Inc,Robertmouth,TX,Healthcare,Enterprise,50000,84
+CUST00339,Nash-Garcia,West Melanie,OH,Education,Enterprise,25000,34
+CUST00340,Franklin PLC,Donnamouth,NC,Education,Small,10000,94
+CUST00341,"Lambert, Tucker and Potts",Adamstown,VT,Retail,Small,10000,84
+CUST00342,Green-Turner,Calvinbury,SD,Government,Medium,50000,72
+CUST00343,Griffin-Nguyen,Valenzuelastad,HI,Construction,Medium,25000,49
+CUST00344,Fields-Price,Samanthaland,VI,Construction,Small,25000,4
+CUST00345,Aguilar-Owens,Brandonhaven,NY,Retail,Medium,10000,68
+CUST00346,Schmidt PLC,Johnsonshire,GU,Retail,Enterprise,100000,39
+CUST00347,Duarte-Grant,Joborough,GA,Construction,Small,100000,9
+CUST00348,Nguyen-Bell,Port Denise,KS,Retail,Small,10000,49
+CUST00349,"Kelly, Clark and Campbell",Port Hollyborough,CT,Government,Enterprise,25000,33
+CUST00350,Mccall-Holmes,East Kristinaport,KY,Healthcare,Medium,10000,69
+CUST00351,Peterson-Cook,North Alan,AS,Manufacturing,Enterprise,100000,37
+CUST00352,Freeman Group,South Jennifer,CT,Healthcare,Small,50000,65
+CUST00353,Anderson-Wood,Floresmouth,AS,Manufacturing,Small,50000,89
+CUST00354,"Merritt, Hamilton and Thompson",North Bryce,AK,Retail,Enterprise,50000,25
+CUST00355,Graham-Vega,East Wyatt,MD,Manufacturing,Medium,25000,43
+CUST00356,"Thompson, Diaz and Garcia",East Rachel,RI,Education,Medium,10000,29
+CUST00357,Walker Group,Lucasfurt,ME,Healthcare,Medium,100000,83
+CUST00358,"Vazquez, Lambert and Williams",Fischerport,WV,Retail,Small,25000,86
+CUST00359,"Allison, Williams and Copeland",Cynthiahaven,GA,Manufacturing,Medium,25000,95
+CUST00360,Schmidt Inc,Ashleyhaven,GU,Retail,Medium,10000,90
+CUST00361,"Sanchez, Perez and Dean",East Leah,AL,Retail,Medium,100000,77
+CUST00362,"Rodriguez, Marshall and Garcia",Brettland,MT,Manufacturing,Enterprise,50000,39
+CUST00363,Mcbride-Vasquez,New Michaelview,PR,Government,Enterprise,100000,3
+CUST00364,"Callahan, Farrell and Smith",Thomasview,GU,Manufacturing,Medium,100000,53
+CUST00365,"Cain, Lee and Allen",Thorntonberg,TN,Manufacturing,Medium,10000,12
+CUST00366,Boyd PLC,Lake Kevinview,NH,Government,Enterprise,100000,67
+CUST00367,Cisneros Ltd,Chungmouth,MD,Retail,Enterprise,100000,45
+CUST00368,"Barnes, Anderson and Lee",Dannychester,FM,Construction,Small,25000,58
+CUST00369,Lewis-Taylor,New Matthew,MN,Manufacturing,Small,25000,45
+CUST00370,Brown Ltd,New Melissaville,WV,Retail,Enterprise,25000,66
+CUST00371,Bailey-Thompson,New Christina,MT,Construction,Medium,10000,69
+CUST00372,"Smith, Green and Hernandez",Lake Kyle,MN,Retail,Medium,10000,22
+CUST00373,Mcdowell-Blevins,North Sarahmouth,AR,Education,Medium,100000,48
+CUST00374,Tyler-Weber,South Alexis,TX,Retail,Small,50000,2
+CUST00375,White-Hobbs,West Joshuashire,FM,Retail,Small,50000,73
+CUST00376,"Dorsey, Schneider and Tyler",North Joybury,VA,Manufacturing,Medium,100000,98
+CUST00377,Williams Ltd,Andrewfurt,VI,Retail,Medium,100000,97
+CUST00378,"Williamson, Burns and Reed",Port Brittanyburgh,GU,Education,Small,50000,2
+CUST00379,Solis Inc,Tylerton,AS,Education,Small,10000,84
+CUST00380,Goodman and Sons,Allenberg,WA,Healthcare,Enterprise,25000,27
+CUST00381,Brooks-Alexander,Jonathanton,CO,Healthcare,Enterprise,100000,99
+CUST00382,"Hughes, Miller and Johnston",Taylorport,AL,Education,Enterprise,10000,32
+CUST00383,"Russell, Kirby and Randolph",Port William,AL,Education,Small,10000,48
+CUST00384,Henry-Foster,Nguyenmouth,MO,Manufacturing,Small,25000,69
+CUST00385,Fernandez Inc,South Kellyside,OK,Manufacturing,Enterprise,25000,46
+CUST00386,"Chapman, Monroe and Stafford",Port Alexisland,ND,Education,Small,10000,50
+CUST00387,Chambers-Lane,Elliottside,UT,Manufacturing,Small,10000,13
+CUST00388,"Wilson, Davis and Gomez",Heatherton,AR,Healthcare,Small,25000,82
+CUST00389,"Rodriguez, Crawford and Mckay",New Jerry,PW,Retail,Enterprise,50000,36
+CUST00390,"Vaughan, Dixon and Evans",Newmanburgh,MI,Manufacturing,Small,10000,63
+CUST00391,"Trevino, Vance and Fisher",Port Josephfurt,NV,Government,Medium,100000,3
+CUST00392,Baker Ltd,Ricardoton,SC,Retail,Small,50000,15
+CUST00393,Fletcher LLC,Johnsonmouth,MI,Education,Small,10000,75
+CUST00394,"Robinson, Ferrell and Jones",East Michelle,NM,Government,Enterprise,100000,100
+CUST00395,Ortiz LLC,New Amber,WA,Manufacturing,Enterprise,25000,20
+CUST00396,"Gibson, Jones and Johnson",Walkerhaven,NH,Construction,Enterprise,25000,81
+CUST00397,Ingram Ltd,Robbinshaven,MN,Healthcare,Medium,100000,19
+CUST00398,"Roberts, Kelley and Montgomery",New Justinmouth,SC,Retail,Enterprise,50000,63
+CUST00399,"Woods, Kim and Barry",North Debbie,AR,Construction,Enterprise,100000,30
+CUST00400,"West, Strong and Petty",Nancyberg,MD,Healthcare,Medium,10000,77
+CUST00401,"Douglas, Moreno and Gray",Copelandstad,MD,Government,Medium,10000,7
+CUST00402,Olsen Ltd,New Michael,CO,Retail,Medium,25000,32
+CUST00403,Walsh-Dudley,Raventown,DE,Healthcare,Small,10000,18
+CUST00404,Compton-Martinez,Lake Charles,OH,Education,Enterprise,50000,72
+CUST00405,"Harris, Bright and York",Jonesburgh,IN,Construction,Small,50000,27
+CUST00406,"Graham, Bass and Jackson",Francotown,VI,Healthcare,Small,10000,24
+CUST00407,Young-Patel,Edwardstown,WA,Education,Medium,25000,99
+CUST00408,Bryan Inc,North Erika,TX,Healthcare,Enterprise,100000,34
+CUST00409,Young PLC,New Connor,VA,Healthcare,Medium,25000,88
+CUST00410,Little-Wilson,Port Benjamin,WV,Manufacturing,Small,100000,91
+CUST00411,Fisher-Meyers,South Richard,TX,Education,Small,100000,63
+CUST00412,Franklin-Rodriguez,Fletcherfort,MS,Retail,Small,50000,51
+CUST00413,Miller-Freeman,Jonesland,TN,Construction,Small,100000,20
+CUST00414,Lewis-Terry,Emilymouth,NE,Education,Small,25000,44
+CUST00415,Russo Group,Breannaport,NH,Healthcare,Enterprise,50000,99
+CUST00416,"Lozano, Barnett and Simmons",Bryceview,HI,Education,Enterprise,100000,50
+CUST00417,Estrada Group,Cunninghambury,MH,Government,Small,25000,75
+CUST00418,Brooks LLC,Davidmouth,NY,Construction,Enterprise,10000,7
+CUST00419,Hoffman-Payne,South Joseph,DC,Education,Small,25000,14
+CUST00420,Key and Sons,Hamptonberg,IL,Retail,Enterprise,50000,13
+CUST00421,"Morgan, Vaughn and Carter",New Joshua,WY,Manufacturing,Small,10000,12
+CUST00422,"Arnold, Everett and Campos",Porterview,ID,Healthcare,Medium,10000,76
+CUST00423,Jones LLC,North Edwinberg,MI,Healthcare,Medium,100000,73
+CUST00424,Robinson PLC,North Rhonda,UT,Education,Small,100000,29
+CUST00425,Hensley and Sons,North Meredith,OH,Manufacturing,Small,100000,50
+CUST00426,Chen-Stanton,Andrewborough,RI,Construction,Small,100000,15
+CUST00427,Davies Inc,Welchshire,KS,Government,Medium,100000,64
+CUST00428,Walters Group,East Philip,ID,Retail,Medium,100000,86
+CUST00429,"Stevens, Murray and Smith",Lake Samuel,DE,Construction,Medium,50000,97
+CUST00430,"Lang, Hardy and Green",New Lindaport,LA,Government,Small,25000,7
+CUST00431,Norman Group,Kaitlynville,OK,Manufacturing,Medium,100000,63
+CUST00432,Robinson Inc,New Anthony,FL,Manufacturing,Small,50000,20
+CUST00433,Torres-Duran,Port Kyle,VI,Education,Small,100000,50
+CUST00434,"Smith, Martinez and Le",Smithside,UT,Retail,Small,25000,62
+CUST00435,"Hernandez, Marquez and Peterson",Stevenfort,IL,Government,Small,10000,77
+CUST00436,Mccall-Mayo,West Robert,MS,Retail,Medium,10000,78
+CUST00437,"Blake, Thompson and Garcia",Lake Samantha,ME,Manufacturing,Enterprise,25000,59
+CUST00438,Atkinson Ltd,Johnborough,WA,Construction,Small,10000,50
+CUST00439,Moore and Sons,South Ericton,WI,Manufacturing,Enterprise,25000,75
+CUST00440,Cannon and Sons,Greenestad,GU,Manufacturing,Enterprise,100000,59
+CUST00441,Miller-Schneider,Williamland,NE,Government,Enterprise,100000,58
+CUST00442,"Scott, Weaver and Lewis",Port Douglastown,MT,Government,Small,50000,41
+CUST00443,Patterson and Sons,Jonesmouth,PW,Manufacturing,Small,100000,98
+CUST00444,Robles-Martin,West Brian,NH,Healthcare,Enterprise,25000,61
+CUST00445,"King, Hall and Harrison",Blankenshipborough,ID,Government,Enterprise,10000,39
+CUST00446,Gardner-Thomas,Kimberlyland,MS,Construction,Medium,50000,4
+CUST00447,Rodriguez LLC,South Tiffany,OK,Construction,Small,25000,85
+CUST00448,Robertson-Phillips,New Karen,OR,Education,Enterprise,50000,97
+CUST00449,"Monroe, Rodriguez and Chase",Katherinehaven,KS,Government,Small,25000,14
+CUST00450,Mendez-Richardson,Williamchester,TN,Construction,Enterprise,50000,55
+CUST00451,Montoya-Garcia,Lake Davidburgh,MS,Government,Enterprise,10000,90
+CUST00452,Downs LLC,Juliamouth,VA,Construction,Medium,50000,79
+CUST00453,"Valentine, Kelly and Johnson",Andersonfurt,SC,Construction,Medium,25000,69
+CUST00454,Smith PLC,Michaelstad,NE,Healthcare,Small,100000,5
+CUST00455,Jones Group,West Christophertown,GA,Construction,Medium,25000,37
+CUST00456,"Bass, Murray and Miller",North Michaelview,VT,Government,Small,50000,32
+CUST00457,"Murray, Mckee and Walsh",Tammyberg,KS,Healthcare,Medium,10000,35
+CUST00458,"Mckinney, Perez and Mcbride",West Maureen,VI,Construction,Medium,100000,86
+CUST00459,Harris-Ray,Rivaston,WV,Construction,Enterprise,25000,62
+CUST00460,York Inc,West Jonathan,AL,Retail,Small,25000,66
+CUST00461,Hill-Smith,Ingramville,MT,Manufacturing,Small,25000,12
+CUST00462,"Rodriguez, Lewis and Arias",Jordanfurt,IA,Government,Enterprise,50000,14
+CUST00463,"Daugherty, May and Fields",New Alecview,WA,Education,Small,25000,93
+CUST00464,Pratt-Thomas,Jacquelineland,OH,Education,Medium,10000,14
+CUST00465,Ballard-Perez,North Marymouth,AZ,Construction,Enterprise,25000,52
+CUST00466,Mcmillan Inc,North Lauren,GA,Retail,Small,10000,9
+CUST00467,Brown-Pace,Patriciaport,NM,Construction,Medium,25000,3
+CUST00468,Williams-Jordan,West Christinamouth,FM,Education,Enterprise,10000,31
+CUST00469,"Nunez, Clarke and Vega",North Megan,WV,Construction,Medium,100000,64
+CUST00470,"Nicholson, Taylor and Dunn",Meaganport,WI,Education,Enterprise,100000,26
+CUST00471,Foley-Velasquez,Salazarfort,MI,Government,Small,10000,75
+CUST00472,Gill and Sons,Debbieside,NY,Education,Medium,50000,5
+CUST00473,Anderson and Sons,Thomasfort,PR,Construction,Enterprise,10000,40
+CUST00474,Mendez LLC,North David,WV,Manufacturing,Medium,25000,13
+CUST00475,Carter Inc,Ethanview,MD,Construction,Small,25000,26
+CUST00476,Manning-Mcdonald,Eddiestad,FL,Government,Medium,50000,8
+CUST00477,Morse Ltd,Emilymouth,ME,Healthcare,Medium,25000,92
+CUST00478,"Hernandez, Alexander and Jones",Jeffreyberg,KY,Retail,Small,50000,95
+CUST00479,Thomas-Jackson,Rojasside,SC,Healthcare,Small,50000,82
+CUST00480,Hanson-Clarke,Lake Meredith,AK,Manufacturing,Enterprise,50000,64
+CUST00481,White-Powell,Ravenmouth,MI,Retail,Medium,50000,82
+CUST00482,"Cowan, Cox and Gutierrez",New Steven,WA,Education,Medium,100000,82
+CUST00483,White-Mendoza,Jonathanburgh,AR,Manufacturing,Small,25000,28
+CUST00484,Cox-Edwards,Port Matthew,MP,Retail,Enterprise,10000,72
+CUST00485,Brown-Rollins,Johnsonbury,OH,Construction,Small,100000,33
+CUST00486,"Dawson, Walter and Farrell",East Laurenbury,CA,Construction,Medium,10000,90
+CUST00487,Gentry-Stevenson,Silvaside,MD,Construction,Small,50000,19
+CUST00488,Frey Group,Prattmouth,NH,Government,Small,100000,96
+CUST00489,"Tucker, Rivera and Ramos",East Danielleview,MP,Manufacturing,Medium,100000,84
+CUST00490,Graham-Gregory,Victoriatown,IL,Retail,Enterprise,100000,97
+CUST00491,Maldonado LLC,Port Jared,MO,Retail,Small,25000,6
+CUST00492,"Brown, Martin and Smith",East Michael,PR,Government,Small,100000,67
+CUST00493,Carroll-Davies,Lake Breanna,AZ,Healthcare,Enterprise,25000,95
+CUST00494,Bautista and Sons,Harrisborough,NM,Manufacturing,Small,25000,84
+CUST00495,"Banks, Perry and Peters",Lake Christian,CA,Healthcare,Small,25000,79
+CUST00496,"Stevens, Powell and Fitzgerald",Pollardbury,IN,Retail,Medium,50000,7
+CUST00497,Chaney-Castaneda,Smithland,NJ,Government,Medium,10000,55
+CUST00498,Nelson and Sons,Rileyland,TX,Construction,Medium,10000,8
+CUST00499,Griffin Ltd,East Felicia,PR,Healthcare,Enterprise,50000,38
+CUST00500,"Reeves, Moran and Martin",Robertview,IL,Retail,Enterprise,100000,70

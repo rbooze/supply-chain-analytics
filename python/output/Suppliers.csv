@@ -1,0 +1,21 @@
+SupplierCode,SupplierName,Country,LeadTimeDays,Rating
+SUP001,Acme Industrial,United States,9,3.55
+SUP002,Global Supply,United States,9,4.97
+SUP003,Titan Components,Canada,18,4.4
+SUP004,NorthStar Manufacturing,Canada,17,4.97
+SUP005,Precision Parts,Mexico,19,4.12
+SUP006,Prime Distribution,Canada,7,4.9
+SUP007,Rapid Industrial,Canada,21,3.89
+SUP008,Summit Supply,United States,21,4.12
+SUP009,Atlas Products,Canada,3,3.83
+SUP010,Pioneer Manufacturing,Mexico,11,4.44
+SUP011,Metro Components,Mexico,21,4.76
+SUP012,Liberty Industrial,Mexico,15,3.53
+SUP013,Vertex Manufacturing,Canada,5,3.8
+SUP014,Blue Ridge Supply,Mexico,9,3.96
+SUP015,Evergreen Products,Mexico,15,4.48
+SUP016,IronWorks Inc.,United States,13,4.5
+SUP017,Keystone Industrial,United States,7,4.64
+SUP018,Continental Supply,Mexico,6,3.73
+SUP019,Apex Manufacturing,Mexico,15,4.69
+SUP020,Industrial Plus,Mexico,5,4.24
