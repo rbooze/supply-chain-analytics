@@ -33,6 +33,19 @@ DEFAULT_MAX_STOCK = 500
 PURCHASE_LEADTIME_MIN = 3
 PURCHASE_LEADTIME_MAX = 21
 
+# Shipping
+
+MIN_TRANSIT_DAYS = 1
+MAX_TRANSIT_DAYS = 8
+
+LATE_SHIPMENT_PERCENT = 0.08      # 8%
+WEATHER_DELAY_PERCENT = 0.03      # 3%
+
+FREIGHT_RATE_PER_LB = 0.22
+
+# Returns
+RETURN_RATE = 0.05     # 5% of order lines are returned
+
 # ---------------------------------------------------
 # Master Data
 # ---------------------------------------------------
