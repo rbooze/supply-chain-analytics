@@ -1,0 +1,14 @@
+CREATE OR ALTER PROCEDURE audit.usp_EndETLRun
+    @RunID UNIQUEIDENTIFIER,
+    @Status VARCHAR(20)
+AS
+
+BEGIN
+	UPDATE audit.ETL_Run
+	SET
+		EndTime = SYSDATETIME(),
+		Status = @Status
+	WHERE
+		RunID = @RunID;
+END
+GO
